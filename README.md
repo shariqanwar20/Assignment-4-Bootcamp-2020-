@@ -1,3 +1,8 @@
+### Errors I learnt through this assignment
+1. while writing run command even if the folder is in the same relative path write ./build instead of ./
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
